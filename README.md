@@ -29,3 +29,5 @@ https://files.freeswitch.org/windows/installer/x64/sounds/
 https://files.freeswitch.org/windows/installer/x64/
 
 https://files.freeswitch.org/windows/packages/
+
+https://github.com/omichel/webots/wiki/Pico-Compilation
